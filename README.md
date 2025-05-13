@@ -5,7 +5,7 @@ Atenção ⚠️
 Não tem acesso ao Github Copilot?! Não tem problema!! Que tal utilizar o ChatGPT como seu copiloto de estudos ??
 
 1 - Concatenando Dados 🐾
-Descrição: Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?!
+Descrição: Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?! ✅
 
 O que aprenderemos?
 
@@ -15,7 +15,7 @@ Entrada de dados
 Utilização eficiente do Github Copilot
 
 2 - Repetindo Textos ✏️
-Descrição: Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado.
+Descrição: Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado. ✅
 
 O que aprenderemos?
 
@@ -26,7 +26,7 @@ Entrada de dados
 Aproveitar as sugestões do Github Copilot
 
 3 - Operações Matemáticas Simples 📐
-Descrição: Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
+Descrição: Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles. ✅
 
 O que aprenderemos?
 
@@ -35,7 +35,7 @@ Entrada de dados
 Utilização eficiente do Github Copilot
 
 4 - Verificando Números Pares e Ímpares 🧮
-Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código.
+Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código. ✅
 
 O que aprenderemos?
 
@@ -44,7 +44,7 @@ Introdução ao conceito de operador de módulo (%) para verificar se um número
 Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
 
 5 - Calculando Média de Notas 📚
-Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
+Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média. ✅
 
 O que aprenderemos?
 
@@ -53,7 +53,7 @@ Aplicação de operadores aritméticos (+, /) para calcular a média de um conju
 Prática na solicitação e manipulação de entrada do usuário.
 
 6 - Verificando Palíndromos 🔄
-Descrição: Vamos testar se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
+Descrição: Vamos testar se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original. ✅
 
 O que aprenderemos?
 
